@@ -1,1 +1,1 @@
-open http://localhost:8000 && python -m SimpleHTTPServer
+open http://localhost:3000 && python -m SimpleHTTPServer 3000

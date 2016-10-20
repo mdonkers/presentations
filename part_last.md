@@ -17,8 +17,12 @@
 
 <!-- .slide: data-background="img/background-dark-orig.jpg" -->
 
-&nbsp;
+<p><img class="simpleImage" src="img/logo-and-name-white.png" alt="alt text" title="codecentric Logo" width="30%"></p>
 
-Copyright 2016
+---
+
+### We're hiring
+
+<!-- .slide: data-background="img/background-dark-orig.jpg" -->
 
 <p><img class="simpleImage" src="img/logo-and-name-white.png" alt="alt text" title="codecentric Logo" width="30%"></p>

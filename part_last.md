@@ -4,6 +4,32 @@
 
 ---
 
+### Lessons learned
+
++ Conventions make setup easy
+- Framework on top of many layers
+
+---
+
+```
+...
+[INFO] Service locator is running at http://localhost:8000
+[INFO] Service gateway is running at http://localhost:9000
+...
+[INFO] (Service started, press enter to stop and go back to the console...)
+[error] c.l.l.i.s.ServiceRegistrationModule$RegisterWithServiceRegistry 
+   - Service name=[hello] couldn't register itself to the service locator.
+com.lightbend.lagom.javadsl.api.transport.TransportException: <head>
+...
+[error] a.c.s.PersistentShardCoordinator - Persistence failure when replaying 
+   events for persistenceId [/sharding/HelloEntityCoordinator]. Last 
+   known sequence number [0]
+com.lightbend.lagom.javadsl.api.transport.PolicyViolation: <head>
+...
+```
+
+---
+
 ### Links
 
 - [Martin Fowler - CQRS](http://martinfowler.com/bliki/CQRS.html)

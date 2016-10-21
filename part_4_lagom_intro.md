@@ -48,6 +48,7 @@ default Descriptor descriptor() {
 
 Note:
 Play used as Web Framework
+Kafka used for Reactive Streams middleware
 
 ---
 
@@ -60,6 +61,12 @@ Play used as Web Framework
 
 Note:
 Instance is passivated when not in use
+
+---
+
+### Command - Event - State
+
+<p><img class="simpleImage" title="Command Event State" src="img/command_event_state.png" width="70%"></p>
 
 ---
 

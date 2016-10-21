@@ -47,6 +47,12 @@
 
 ---
 
+### Command - Event - State
+
+<p><img class="simpleImage" title="Command Event State" src="img/command_event_state.png" width="70%"></p>
+
+---
+
 ### Service owns data
 
 <p><img class="simpleImage" title="Service owns data" src="img/service_owns_data.png" width="80%"></p>

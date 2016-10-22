@@ -45,6 +45,16 @@
 - Command <!-- .element: class="fragment"-->
 - Event <!-- .element: class="fragment"-->
 
+Note:
+Bounded context = model with group of objects, internally consistent
+Aggregate = cluster of object treated as single unit
+
+---
+
+### DDD example
+
+<p><img class="simpleImage" title="DDD Example" src="img/ddd_concepts.png" width="70%"></p>
+
 ---
 
 ### Command - Event - State

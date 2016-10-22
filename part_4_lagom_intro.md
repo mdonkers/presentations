@@ -74,6 +74,13 @@ Instance is passivated when not in use
 
 ---
 
+### Query example
+
+<p><img class="simpleImage" title="DDD Example" src="img/query_example.png" width="70%"></p>
+Get me all inspections with remarks for a given ship
+
+---
+
 ### Lagom JDBC support
 
 - Available in 1.2 release

@@ -1,14 +1,14 @@
 
 ### Miel Donkers
+<!-- .slide: data-background="img/background-dark-orig.jpg" -->
+
+@mieldonkers<br />
+github.com/mdonkers
 
 &nbsp;
 
-#### @mieldonkers
-#### github.com/mdonkers
-
-&nbsp;
-
-#### @codecentric_nl
+<img class="simpleImage" src="img/logo-and-name-white.png" alt="alt text" title="codecentric Logo" width="40%"><br />
+@codecentric_nl
 
 ---
 

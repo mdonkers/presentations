@@ -8,8 +8,8 @@
 ### What is ES
 
 - Event Sourcing
-- Event describes the state change of _aggregate_
-- Event is saved in event store
+- Event describes the <span>state change</span> <!-- .element: class="fragment highlight-blue"-->of _aggregate_
+- Event is <span>saved</span> in event store <!-- .element: class="fragment highlight-blue"-->
 - Events can be replayed to re-create the current state.
 
 ---
@@ -75,7 +75,7 @@
 ### Advantages
 
 - Auditing and historical tracing
-- Read and write side can be optimized separately
+- Read and write side can be <span>optimized separately</span> <!-- .element: class="fragment highlight-red"-->
 - Debug in local environment
 - Small components which are easy to update / fix
 - No ORM impedance mismatch

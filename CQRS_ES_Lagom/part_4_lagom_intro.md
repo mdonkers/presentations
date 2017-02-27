@@ -83,7 +83,7 @@ Get me all inspections with remarks for a given ship
 
 ### Lagom JDBC support
 
-- Available in 1.2 release
+- Available since 1.2 release
 - Slick
 - Storing and reading entities
 

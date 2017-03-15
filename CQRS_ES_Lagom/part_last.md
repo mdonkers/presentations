@@ -8,6 +8,7 @@
 
 + Conventions make setup easy
 - Framework on top of many layers
+- Scala more concise, but may feel like more magic
 
 ---
 
